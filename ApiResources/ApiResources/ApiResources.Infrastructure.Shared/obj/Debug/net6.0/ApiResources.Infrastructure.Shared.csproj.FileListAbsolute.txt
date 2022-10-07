@@ -1,0 +1,17 @@
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Infrastructure.Shared.deps.json
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Infrastructure.Shared.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Infrastructure.Shared.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Application.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Domain.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Application.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\bin\Debug\net6.0\ApiResources.Domain.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\refint\ApiResources.Infrastructure.Shared.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ApiResources.Infrastructure.Shared.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Shared\obj\Debug\net6.0\ref\ApiResources.Infrastructure.Shared.dll

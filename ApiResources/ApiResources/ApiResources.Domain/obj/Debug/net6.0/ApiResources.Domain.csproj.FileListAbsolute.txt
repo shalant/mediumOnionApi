@@ -1,0 +1,12 @@
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\bin\Debug\net6.0\ApiResources.Domain.deps.json
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\bin\Debug\net6.0\ApiResources.Domain.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\bin\Debug\net6.0\ApiResources.Domain.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.csproj.AssemblyReference.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.AssemblyInfoInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.AssemblyInfo.cs
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\refint\ApiResources.Domain.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ApiResources.Domain.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Domain\obj\Debug\net6.0\ref\ApiResources.Domain.dll

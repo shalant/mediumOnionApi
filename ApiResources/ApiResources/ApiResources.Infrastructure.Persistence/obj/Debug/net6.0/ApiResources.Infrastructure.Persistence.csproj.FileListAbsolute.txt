@@ -1,0 +1,17 @@
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Infrastructure.Persistence.deps.json
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Infrastructure.Persistence.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Infrastructure.Persistence.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Application.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Domain.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Application.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\bin\Debug\net6.0\ApiResources.Domain.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\refint\ApiResources.Infrastructure.Persistence.dll
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ApiResources.Infrastructure.Persistence.pdb
+C:\Users\digdr\Desktop\coding\mediumOnionApi\ApiResources\ApiResources\ApiResources.Infrastructure.Persistence\obj\Debug\net6.0\ref\ApiResources.Infrastructure.Persistence.dll
